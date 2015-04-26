@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT25DF512C
+D AT25DF512C, 512-Kbit SPI Serial Flash Memory, SOIC-8, Vcc=3.3V
+K Adesto Flash
+F http://www.adestotech.com/wp-content/uploads/DS-AT25DF512C-030.pdf
+$ENDCMP
+#
+#End Doc Library
