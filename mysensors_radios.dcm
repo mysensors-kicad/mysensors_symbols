@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RFM69HW
+D RFM69HW, 868Mhz +20dBm HopeRF Wireless Transceiver, Vcc=3.3V
+K RF69 868Mhz RF69 RFM69
+F http://modtronicsaustralia.com/wp-content/uploads/2014/11/RFM69HW-V1.3.pdf
+$ENDCMP
+#
+#End Doc Library
