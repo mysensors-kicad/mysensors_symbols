@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W5100
+D Wiznet W5100
+K Ethernet TCP/IP module
+$ENDCMP
+#
+#End Doc Library
