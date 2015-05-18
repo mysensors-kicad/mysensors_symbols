@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G125
+D Single buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
+#End Doc Library
