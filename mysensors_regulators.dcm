@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AMS1117
+D 1A LDO Voltage Regulator
+K LDO Regulator
+F http://www.advanced-monolithic.com/pdf/ds1117.pdf
+$ENDCMP
+#
 $CMP TPS61097A
 D TPS61097A Low-Input Voltage Synchronous-Boost Converter With Low Quiescent Current, SOT-23-5
 K Low-Input Voltage Synchronous-Boost Converter With Low Quiescent Current 400mA
