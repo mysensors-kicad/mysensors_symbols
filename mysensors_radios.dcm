@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NRF24L01
+D NRF24L01+
+K NRF 2G4 radio module
+$ENDCMP
+#
 $CMP RFM69HW
 D RFM69HW, 868Mhz +20dBm HopeRF Wireless Transceiver, Vcc=3.3V
 K RF69 868Mhz RF69 RFM69
