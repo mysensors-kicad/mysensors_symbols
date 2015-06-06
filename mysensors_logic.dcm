@@ -5,4 +5,9 @@ D Single buffer 3 State out
 K TTL buffer 3State
 $ENDCMP
 #
+$CMP MAX3002E
+D MAX3002 8 channel level converter
+K level shifter, 8 channel
+$ENDCMP
+#
 #End Doc Library
