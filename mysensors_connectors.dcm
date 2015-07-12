@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Debug
+D Cortex M debug connector
+K Debug connector cortex
+$ENDCMP
+#
+#End Doc Library
