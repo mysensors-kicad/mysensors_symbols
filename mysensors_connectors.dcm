@@ -5,4 +5,40 @@ D Cortex M debug connector
 K Debug connector cortex
 $ENDCMP
 #
+$CMP MYSX_1.0
+D Mysensors expansion connector 1.0
+K MYSX 1.0
+F http://github.com/mysensors-kicad/documentation/raw/master/TheMYSXconnector.pdf
+$ENDCMP
+#
+$CMP MYSX_1.1
+D Mysensors expansion connector 1.1
+K MYSX 1.1
+F http://github.com/mysensors-kicad/documentation/raw/master/TheMYSXconnector.pdf
+$ENDCMP
+#
+$CMP MYSX_1.2
+D Mysensors expansion connector 1.2
+K MYSX 1.2
+F http://github.com/mysensors-kicad/documentation/raw/master/TheMYSXconnector.pdf
+$ENDCMP
+#
+$CMP MYSX_1.3
+D Mysensors expansion connector 1.3
+K MYSX 1.3
+F http://github.com/mysensors-kicad/documentation/raw/master/TheMYSXconnector.pdf
+$ENDCMP
+#
+$CMP MYSX_1.4
+D Mysensors expansion connector 1.4
+K MYSX 1.4
+F http://github.com/mysensors-kicad/documentation/raw/master/TheMYSXconnector.pdf
+$ENDCMP
+#
+$CMP MYSX_1.5
+D Mysensors expansion connector 1.5
+K MYSX 1.5
+F http://github.com/mysensors-kicad/documentation/raw/master/TheMYSXconnector.pdf
+$ENDCMP
+#
 #End Doc Library
