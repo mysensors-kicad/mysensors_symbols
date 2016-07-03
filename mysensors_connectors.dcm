@@ -41,4 +41,16 @@ K MYSX 1.5
 F http://github.com/mysensors-kicad/documentation/raw/master/TheMYSXconnector.pdf
 $ENDCMP
 #
+$CMP micro_SD_Card
+D SD Card Reader
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
+$CMP micro_SD_Card_SPI
+D SD Card Reader
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
 #End Doc Library
