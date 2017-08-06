@@ -20,4 +20,8 @@ D MAX3378 4 channel level converter
 K level shifter, 4 channel I2C
 $ENDCMP
 #
+$CMP SN65HVD485E
+D RS485 bus driver
+$ENDCMP
+#
 #End Doc Library
