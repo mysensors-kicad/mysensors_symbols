@@ -17,4 +17,16 @@ K RF95 LORA RF95 RFM95
 F https://cdn-learn.adafruit.com/assets/assets/000/031/659/original/RFM95_96_97_98W.pdf?1460518717
 $ENDCMP
 #
+$CMP NRF52832_QFN48
+D NRF52832_QFN48 Square layout
+K NRF52832_QFN48
+F http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.0.pdf
+$ENDCMP
+#
+$CMP NRF52832_QFN48_rectangle
+D NRF52832_QFN48 Rectangle layout
+K NRF52832_QFN48
+F http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.0.pdf
+$ENDCMP
+#
 #End Doc Library
